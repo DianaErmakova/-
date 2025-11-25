@@ -36,3 +36,8 @@ data/processed/
 .vscode/
 *.swp
 *.swo
+
+# Конфиги с API ключами
+config.yaml
+*.env
+secrets.yml
